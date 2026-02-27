@@ -1,0 +1,5 @@
+# Agent instructions (local only)
+AGENTS.md
+Backend/AGENTS.md
+frontend/Agents.md
+infra/AGENTS.override.md
